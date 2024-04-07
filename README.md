@@ -1,1 +1,1 @@
-Voici les projets que j'ai realisé le premier semestre de 2023/2024 et qui peuvent être compilés ou clairement compris. Il y'a bien d'autres sujets informatique traités durant ma formation. Mais ils n'ont pas leur place sur git. 
+Voici les projets/codes que j'ai realisé durant le premier semestre de 2023/2024 et qui peuvent être compilés ou clairement compris. Il y'a bien d'autres sujets informatique traités durant ma formation. Mais ils n'ont pas leur place sur git. 
